@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1307169824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4a6d7dc70eeb91f6a6d10735a17ba62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d70a9d77e97343a9279badbf552ad0b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
+Assets:
+- Assets/Bundles/heroes/kindlenny/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/kindlenny/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_emote_7.wav
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_item_1.wav
+- Assets/Bundles/heroes/kindlenny/Resources/bundles/heroes/HeroBundle-KindLenny.asset
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_item_3.wav
+- Assets/Bundles/heroes/kindlenny/CAB-081564d397bfd8ecd7b95c4c2b2e997a/KindLenny.prefab
+- Assets/Bundles/heroes/kindlenny/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_item_5.wav
+- Assets/Bundles/heroes/kindlenny/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_emote_4.wav
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_emote_5.wav
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_item_4.wav
+- Assets/Bundles/heroes/kindlenny/Images/skeleton.png
+- Assets/Bundles/heroes/kindlenny/Sounds/vo_lenny_item_2.wav
+- Assets/Bundles/heroes/kindlenny/Materials/skeleton_Material.mat
+Dependencies:
+- H:/afzal/Hero Game/Almost a Hero - Idle RPG/Almost a Hero - Idle RPG/Assets/AaHBundles/spine-shaders

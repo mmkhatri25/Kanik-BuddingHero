@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 4044450602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f05c5053c6a3a2ae160d7b589ec373a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d70a9d77e97343a9279badbf552ad0b7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfce3793e7b4c3dac80aeb2c1d11f4af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 633dfa9ce20d085302ee4f50dc88ffff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b938722d76938cc7419bd542430b5629, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa19e2328b1bccc80658626173c347af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials
+Assets:
+- Assets/Bundles/heroes/tam/Texts/skeleton.atlas.txt
+- Assets/Bundles/heroes/tam/Materials/skeleton_Material.mat
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_item_1.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_item_2.wav
+- Assets/Bundles/heroes/tam/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_item_3.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_item_4.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_emote_6.wav
+- Assets/Bundles/heroes/tam/MonoBehaviour/skeleton_Atlas.asset
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_direct_1.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_item_5.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_direct_3.wav
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_emote_4.wav
+- Assets/Bundles/heroes/tam/CAB-aca569431e00cfd855f820e1ebf69688/Tam.prefab
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_emote_3.wav
+- Assets/Bundles/heroes/tam/Texts/skeleton.skel.bytes
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_emote_7.wav
+- Assets/Bundles/heroes/tam/Resources/bundles/heroes/HeroBundle-Tam.asset
+- Assets/Bundles/heroes/tam/Sounds/vo_tam_direct_2.wav
+- Assets/Bundles/heroes/tam/Images/skeleton.png
+Dependencies:
+- H:/afzal/Hero Game/Almost a Hero - Idle RPG/Almost a Hero - Idle RPG/Assets/AaHBundles/spine-shaders
